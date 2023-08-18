@@ -1,37 +1,10 @@
-# MilkDrop-fk
+# Milk-Fk
+## 一个由Toad114514制作的烧饼MilkDrop预设，支持拥有Milkdrop2的音频播放器(例如Poweramp、Winamp、kodi插件ProjectM等)
 
-#### 介绍
-由Toad114514制作的烧饼milkdrop预设
+# 安装并使用
+下载文件，通过下载源码获得(zip打包)。然后把压缩包里面的milk文件夹里面的预设解压到支持Milkdrop可视化的播放器的外置预设文件夹即可。如果你不知道要把预设放在哪里，请看下面的提示
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+# 具体要把预设放在哪里
+以下提供了预设要放在哪里的位置的表单，如果表单里面有你正在使用的播放器，可以把milk预设放在相对应的文件夹里
+ - Poweramp v3 - /storage/emulated/0/Android/data/_com.maxmpz.audioplayer/milk_presets
+ - Winamp（如果没有证明没有安装milkdrop1.04插件） - Winamp安装位置/plugin/Milkdrop
