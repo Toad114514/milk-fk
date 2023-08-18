@@ -1,36 +1,10 @@
-# MilkDrop-fk
+# Milk-Fk
+## The pancake milkdrop 2 presents by Toad114514,Can run at media player with Milkdrop 2(e.g Poweramp、Winamp、kodi with ProjectM plugin...)
 
-#### Description
-由Toad114514制作的烧饼milkdrop预设
+# Install and run
+Download files,from download origin code(zip files).And then unpack zip file in milk folder in presents to external presents folder from media player with milkdrop 2.Look tips below if you don't know presents unpack to where.
 
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+# Presents unpack to where
+We provided presents will unpack to where form at below,can unpack to relatively folder if you in use media player name in the below form.
+ - Poweramp v3 - /storage/emulated/0/Android/data/_com.maxmpz.audioplayer/milk_presets
+ - Winamp(Not install milkdrop1.04 if you don't found folder) - Winamp install folder/plugin/Milkdrop
