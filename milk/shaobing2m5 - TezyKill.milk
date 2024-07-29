@@ -253,7 +253,7 @@ per_frame_1=basstime  = basstime * 0.76 + (bass * 1000 / time);
 per_frame_2=q2 = basstime;
 per_frame_3=q1 = basstime*0.54321;
 per_frame_4=
-per_frame_5=othertime  = othertime + othertime*0.76667
+per_frame_5=othertime  = othertime + othertime*0.76667;
 per_frame_6=q3 = othertime;
 per_pixel_1=
 per_pixel_2=zoom = 1*othertime+0.76-.9;
